@@ -19,7 +19,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nikita-Parjane27&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+- 🚀 [MilestoFund-Frontend](https://github.com/Nikita-Parjane27/MilestoFund-Frontend)
+- 🔍 [Github-Analyzer](https://github.com/Nikita-Parjane27/Github-Analyzer)
+- 📊 [PRAS-Final-Project](https://github.com/Nikita-Parjane27/PRAS-Final-Project-)
 
 ---
 ![](https://komarev.com/ghpvc/?username=Nikita-Parjane27&color=blueviolet&style=flat)
